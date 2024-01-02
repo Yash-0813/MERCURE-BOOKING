@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERCURE-BOOKING/static/css/main.fa9d00fb.css",
+    "main.js": "/MERCURE-BOOKING/static/js/main.b4688e47.js",
+    "static/js/787.d5fa4d18.chunk.js": "/MERCURE-BOOKING/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/MERCURE-BOOKING/index.html",
+    "main.fa9d00fb.css.map": "/MERCURE-BOOKING/static/css/main.fa9d00fb.css.map",
+    "main.b4688e47.js.map": "/MERCURE-BOOKING/static/js/main.b4688e47.js.map",
+    "787.d5fa4d18.chunk.js.map": "/MERCURE-BOOKING/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9d00fb.css",
+    "static/js/main.b4688e47.js"
+  ]
+}
